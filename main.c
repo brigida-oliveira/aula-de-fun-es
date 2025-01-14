@@ -9,7 +9,7 @@ int soma(int x, int y){
 int main()
 {
     int a, b, resposta;
-    printf("Vamos somar! :D\n\n");
+    printf("## Vamos somar! :D ##\n\n");
 
     printf("Digite o primeiro numero:\n");
     scanf("%d", &a);
